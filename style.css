@@ -63,7 +63,11 @@
 
 #igual {
   height: 105px;
-  background-color: #a31ccf;
+  background-color: #a40ad3;
+}
+
+#igual:hover {
+  background-color: #750080;
 }
 
 #zero {
